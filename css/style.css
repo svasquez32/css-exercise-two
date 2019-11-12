@@ -1,6 +1,19 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #FEC210;
+  color: #18181e;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 40px;
+  color: #18181e;
+}
+
+h3 {
+  font-size: 24px;
+  color: #f6f6f6;
+  line-height: 1.2;
 }
 
 nav {
