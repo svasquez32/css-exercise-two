@@ -18,18 +18,17 @@ h3 {
 
 nav {
   background-color: rgba(0,0,0,.5);
-  float: left;
   position: fixed;
   width: 100%;
+}
+
+li:hover {
+  background-color: yellow;
 }
 
 .logo {
   margin: 20px;
   width: 100px;
-}
-
-.large-pic {
-  width: 100%;
 }
 
 .medium-pic {
